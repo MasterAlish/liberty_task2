@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--2020-11-16T14:21:29 - /opt/og/bin/adi_2_tva-2020.08.04T15:20:35 -p ADI-EP013002960029.xml -l en-GB -g-->
+
+<TVAMain xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ProgramDescription>
+        <ProgramInformationTable>
+            <ProgramInformation programId="crid://og.libertyglobal.com/BK/Xsllf" fragmentId="EST.EP0130029">
+                <BasicDescription>
+                    <Title xml:lang="en-GB">Lonely Planet</Title>
+                    <Title xml:lang="en-GB" type="episodeTitle">Destination</Title>
+                    <ShortTitle xml:lang="en-GB" length="24" type="secondary">Lonely Planet (s1): ep 09 (HD)  </ShortTitle>
+                    <Synopsis length="long" xml:lang="en-GB">Don is courted by Jim Hobarth, head of a larger ad firm who</Synopsis>
+                    <Synopsis length="medium" xml:lang="en-GB">Don is courted by Jim Hobarth, head of a larger ad firm wh</Synopsis>
+                    <Synopsis length="short" xml:lang="en-GB">Betty is used by a rival ad agency to try to hire Don, Pegg</Synopsis>
+                    <Genre href="urn:libertyglobal:metadata:cs:ContentCS:2014_1:9" type="main"/>
+                    <Genre href="urn:libertyglobal:metadata:cs:OfflineViewingCS:2012:downloadPeriod" type="other">
+                        <Definition>2592000</Definition>
+                    </Genre>
+                    <ParentalGuidance>
+                        <ParentalRating xmlns="urn:tva:mpeg7:2008" href="urn:eventis:metadata:cs:AgeCS:2010:15"/>
+                        <ExplanatoryText xmlns="urn:tva:metadata:2010" xml:lang="en-GB">
+                            Contains some language, violence and  ParentalGuidance
+                        </ExplanatoryText>
+                    </ParentalGuidance>
+                    <CreditsList>
+                        <CreditsItem role="urn:mpeg:mpeg7:cs:RoleCS:2010:ACTOR">
+                            <PersonName>
+                                <GivenName xmlns="urn:tva:mpeg7:2008">Jon Hamm</GivenName>
+                            </PersonName>
+                        </CreditsItem>
+                        <CreditsItem role="urn:mpeg:mpeg7:cs:RoleCS:2010:ACTOR">
+                            <PersonName>
+                                <GivenName xmlns="urn:tva:mpeg7:2008">John Slattery</GivenName>
+                            </PersonName>
+                        </CreditsItem>
+                        <CreditsItem role="urn:eventis:metadata:cs:RoleCS:2010:STUDIO">
+                            <OrganizationName>EST</OrganizationName>>
+                        </CreditsItem>
+                        <CreditsItem role="urn:eventis:metadata:cs:RoleCS:2010:STUDIO-CODE">
+                            <OrganizationName>EST</OrganizationName>>
+                        </CreditsItem>
+                    </CreditsList>
+                    <RelatedMaterial>
+                        <HowRelated href="urn:schange:metadata:cs:DynamicHowRelatedCS:2012:ScreenGrab2"/>
+                        <MediaLocator>
+                            <MediaUri xmlns="urn:tva:mpeg7:2008">https://www.staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service
+                            </MediaUri>
+                        </MediaLocator>
+                    </RelatedMaterial>
+                    <RelatedMaterial>
+                        <HowRelated href="urn:schange:metadata:cs:DynamicHowRelatedCS:2012:ScreenGrab3"/>
+                        <MediaLocator>
+                            <MediaUri xmlns="urn:tva:mpeg7:2008">https://www.staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service
+                            </MediaUri>
+                        </MediaLocator>
+                    </RelatedMaterial>
+                </BasicDescription>
+                <OtherIdentifier organization="libertyglobal.com" type="Display_Provider" authority="adi2tva">VM Store</OtherIdentifier>
+                <OtherIdentifier organization="libertyglobal.com" type="UI_Location" authority="adi2tva">Archive  Other</OtherIdentifier>
+                <OtherIdentifier organization="libertyglobal.com" type="UI_Location" authority="adi2tva">Drama  OtherI</OtherIdentifier>
+                <OtherIdentifier organization="libertyglobal.com" type="UI_Location" authority="adi2tva">VSPP  OtherId</OtherIdentifier>
+                <OtherIdentifier organization="Gracenote" type="TMSId" authority="Gracenote">EP013002960029  OtherIden</OtherIdentifier>
+                <OtherIdentifier organization="Gracenote" type="GN_Layer1_TMSId" authority="Gracenote">EP013002960029</OtherIdentifier>
+            </ProgramInformation>
+        </ProgramInformationTable>
+        <GroupInformationTable>
+            <GroupInformation groupId="crid://og.libertyglobal.com/VOD/EST">
+                <GroupType xsi:type="ProgramGroupTypeType" value="otherCollection"/>
+                <BasicDescription>
+                    <Title xml:lang="en-GB">EST</Title>
+                    <Genre href="urn:eventis:metadata:cs:GroupTypeCS:2010:nodeCatalogue" type="other"/>
+                </BasicDescription>
+                <MemberOf xsi:type="MemberOfType" crid="crid://og.libertyglobal.com/VOD"/>
+            </GroupInformation>
+            <GroupInformation groupId="crid://og.libertyglobal.com/VOD">
+                <GroupType xsi:type="ProgramGroupTypeType" value="otherCollection"/>
+                <BasicDescription>
+                    <Title xml:lang="en-GB">VOD</Title>
+                    <Genre href="urn:eventis:metadata:cs:GroupTypeCS:2010:nodeCatalogue" type="other"/>
+                </BasicDescription>
+                <MemberOf xsi:type="MemberOfType" crid="crid://schange.com/0956dade-d868-4fc3-8765-338b6c32a0dc"/>
+            </GroupInformation>
+        </GroupInformationTable>
+        <ProgramLocationTable>
+            <OnDemandProgram fragmentExpirationDate="2050-12-31T23:59:59Z">
+                <Program crid="crid://og.libertyglobal.com/BK/Xsllf"/>
+                <ProgramURL>456949933</ProgramURL>
+                <InstanceMetadataId>imi:EST_EP013002960029_M</InstanceMetadataId>
+                <InstanceDescription>
+                    <Genre href="urn:eventis:metadata:cs:PropertyCS:2010:IsRemoteContent" type="other"/>
+                    <Genre href="urn:eventis:metadata:cs:PropertyCS:2010:profile" type="other">
+                        <Definition>PLATFORM_EST</Definition>
+                    </Genre>
+                </InstanceDescription>
+            </OnDemandProgram>
+        </ProgramLocationTable>
+        <ProgramLocationTable>
+            <OnDemandProgram>
+                <StartOfAvailability>2019-12-16T23:59:59Z</StartOfAvailability>
+                <EndOfAvailability>2050-12-31T23:59:59Z</EndOfAvailability>
+            </OnDemandProgram>
+        </ProgramLocationTable>
+    </ProgramDescription>
+</TVAMain>

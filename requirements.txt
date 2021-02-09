@@ -1,0 +1,4 @@
+bonobo==0.6.4
+peewee==3.14.0
+fastapi==0.63.0
+uvicorn==0.13.3
